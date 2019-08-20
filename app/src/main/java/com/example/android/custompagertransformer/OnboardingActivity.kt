@@ -4,7 +4,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.viewpager.widget.ViewPager
 
-class MainActivity : AppCompatActivity() {
+class OnboardingActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -14,7 +14,7 @@ class MainActivity : AppCompatActivity() {
 
     private fun setupViewPager() {
         val viewPager : ViewPager = findViewById(R.id.viewpager)
-        viewPager.adapter = PageAdapter(this)
+        viewPager.adapter = PageAdapter(supportFragmentManager)
         viewPager.setPageTransformer(true, CustomPageTransformer())
     }
 }

@@ -17,13 +17,13 @@
                android:layout_width="match_parent"
                android:layout_height="200dp"
                tools:src="@drawable/page_one_img_top"
-               android:scaleType="fitStart"/>
+               android:scaleType="fitEnd"/>
 
     <ImageView android:id="@+id/bottom_image"
                android:layout_width="match_parent"
                android:layout_height="200dp"
                tools:src="@drawable/page_one_img_bottom"
-               android:scaleType="fitEnd"/>
+               android:scaleType="fitStart"/>
 
     <TextView
             android:id="@+id/bottom_text"

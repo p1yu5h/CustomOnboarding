@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">CustomPagerTransformer</string>
+    <string name="page_one_text_top">Page One Text Top</string>
+    <string name="page_one_text_bottom">Page One Text Bottom</string>
+    <string name="page_two_text_top">Page Two Text Top</string>
+    <string name="page_two_text_bottom">Page Two Text Bottom</string>
+    <string name="page_three_text_top">Page Three Text Top</string>
+    <string name="page_three_text_bottom">Page Three Text Bottom</string>
 </resources>
