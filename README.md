@@ -3,9 +3,11 @@ Custom Android App Onboarding Sample using PagerTransformer. [Kotlin]
 > [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/p1yu5h/CustomOnboarding/pulls)
 > [![GitHub stars](https://img.shields.io/github/stars/p1yu5h/CustomOnboarding)](https://github.com/p1yu5h/CustomOnboarding/stargazers)
 > [![GitHub forks](https://img.shields.io/github/forks/p1yu5h/CustomOnboarding)](https://github.com/p1yu5h/CustomOnboarding/network/members)
+> [![HitCount](http://hits.dwyl.io/p1yu5h/CustomOnboarding.svg)](http://hits.dwyl.io/p1yu5h/CustomOnboarding)
+
 
 ## Preview
-- To be Added
+<img src="https://github.com/p1yu5h/CustomOnboarding/blob/master/custom_onboarding_sample.gif" width="260" height="500" />
 
 ## CustomPageTransformer
 <pre>
